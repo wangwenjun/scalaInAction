@@ -1,0 +1,1 @@
+val tuple:(Int, Char, String) = (123,'X',"Hello","World")
